@@ -1,7 +1,7 @@
 import React from 'react';
 import Banner from './components/Banner';
 import Header from './components/Header';
-import Produto from './components/Produto';
+import Product from './components/Product';
 import Footer from './components/Footer';
 
 function Web(){
@@ -9,7 +9,7 @@ function Web(){
     <div className="container">
      < Header/>
      < Banner/>
-     < Produto/>
+     < Product/>
      < Footer/>
     </div>
   )

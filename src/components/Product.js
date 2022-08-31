@@ -16,7 +16,7 @@ import relogio13 from '../assets/img/reloj13.jpg';
 
 
 
-function Produto() {
+function Product() {
     return(
         <main className="productos"> 
             <h2 id="productos">Nossos Produtos</h2>
@@ -115,4 +115,4 @@ function Produto() {
     )
 }
 
-export default Produto
+export default Product
